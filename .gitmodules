@@ -1,0 +1,6 @@
+[submodule "cookbooks"]
+	path = cookbooks
+	url = git@github.com:SeanHolden/cookbooks.git
+[submodule "roles"]
+	path = roles
+	url = git@github.com:SeanHolden/roles.git
