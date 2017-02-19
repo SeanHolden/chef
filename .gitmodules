@@ -4,3 +4,6 @@
 [submodule "roles"]
 	path = roles
 	url = git@github.com:SeanHolden/roles.git
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = git@github.com:SeanHolden/ohmyzsh.git
